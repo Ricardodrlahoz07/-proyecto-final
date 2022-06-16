@@ -220,4 +220,92 @@ Come alimentos ricos en fibra.
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Título de la página</title>
+</head>
+<body>
+    
+  <h1> vida saludable</h1>
+    <img src="img/nutrición-4.jpg" alt="logotipo">
+</body>
+
+<h1>alimentación</h1>
+<body>
+    <img src="img/buena alimentación.jpg" alt="logotipo">
+    
+</body>
+
+
+
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Título de la página</title>
+</head>
+<body>
+    
+        <h1> vida saludable </h1>
+       <h2> comida recomenda   y  comida no recomendada<h2>
+  <head><html>
+<head>
+<style>
+.mainmenubtn {
+    background-color: skyblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top:20px;
+}
+.mainmenubtn:hover {
+    background-color: blue;
+    }
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-child {
+    display: none;
+    background-color: skyblue;
+    min-width: 200px;
+}
+.dropdown-child a {
+    color: blue;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown:hover .dropdown-child {
+    display: block;
+}
+</style>
+</head>
+<body>
+<div class="dropdown">
+  <button class="mainmenubtn">Main Menu</button>
+  <div class="dropdown-child">
+    <a 
+</body>
+
+<video controls>
+       <source src="img/video.mp4"type ="video/mp4"></source>
+    
+</video>
+<body>
+    
+    
+</body>
+HTML
+
+ 
+
+
+
+
 
